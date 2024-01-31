@@ -1,3 +1,9 @@
+package is.hi.hib24.hbv202g.ass3;
+
+import is.hi.hib24.hbv202g.ass3.frontend.UserInterface;
+import is.hi.hib24.hbv202g.ass3.backend.Greeter;
+
+
 public class Main {
 
     public static void main(String[] args) {
