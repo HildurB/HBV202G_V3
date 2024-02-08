@@ -1,1 +1,1 @@
-Main-Class: is.hi.hib24.hbv202g.ass3.Main
+Main-Class: Main
